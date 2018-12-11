@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\GIT\\QUICKBLOX2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-he\\values-he.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ITCLANBD\\.gradle\\caches\\transforms-1\\files-1.1\\library-3.2.3.aar\\40da183fed54ed08d9ef0e1f67dffbd8\\res\\values-he\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "185,253,320",
+                        "endColumns": "67,66,70",
+                        "endOffsets": "248,315,386"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,123,190",
+                        "endColumns": "67,66,70",
+                        "endOffsets": "118,185,256"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,634 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:2:1-95:12
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\robototextview-4.0.0.aar\c0b4fbb9b8b0dbaba27632964c8ebcbf\AndroidManifest.xml:2:1-10:12
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4655570e3e7d22ace6f6f5fed161e5cb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.quickblox:quickblox-android-sdk-videochat-webrtc:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-videochat-webrtc-3.7.0.aar\5168cc8eba926a3897138a76b99f955d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\de63e337785079f0d43e756f4ef58744\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\77c41561668fc4dd7922ac4a3e670732\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4af8f1e408d3d5e0642dcabef3c9828c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\9461b38cdb2f370425398110bc6909e8\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\0113b116d9562fde34ac56e2161803a9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\6b5e7ad57c353c09a36c18d9ff72dc54\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\622a30fd12054cfd37dc2f0d0c8a4cb8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\909b41e51951a95c59aad5c8eec26303\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\0c8ad389c8819665b45f96c61a559a6e\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fd3226c11fe7fd2f6606343ec3951931\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\d0119de05cd987cc5c5f9a6230cce85e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\48f33da855f22eb2aecaf0d496fd6714\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\e66dadad059812ddffa5c33d3b223683\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\586c0b870bfe8464acc6fb3500dac010\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\bc557295b709c75f0c534baf237d542c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7410f255f5d6c8a282000641150acf1c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54adffc93c347fa366e441f4309d60ff\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd32e16ca9f9b74dd82c24aa127b7f1c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aa5db91e1b7c99d44ea731b7e6e26e37\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\64db7b5070462f1f55badb143d0d12cc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8f88f733990ffe494f56e6766e4a0c2d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f4381bf43d5812c969ea9b96baf867c3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05056871e3a9cb577653379aaab67c66\AndroidManifest.xml:17:1-31:12
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\library-3.2.3.aar\40da183fed54ed08d9ef0e1f67dffbd8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-chat-3.7.0.aar\6928da7f2a47564bd0e2024e6ca32fc5\AndroidManifest.xml:2:1-14:12
+MERGED from [com.quickblox:quickblox-android-sdk-core:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-core-3.7.0.aar\332239d0a951d5e8cb7c54206284c6d2\AndroidManifest.xml:2:1-10:12
+MERGED from [org.webrtc:google-webrtc:1.0.21217] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.21217.aar\b0a1a88bb821ffbfbd09c7c75761d6d8\AndroidManifest.xml:11:1-14:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9c077b668332354989398e37a8e6c19e\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\5aa88744eb775b7d948320cbb7dd4e4a\AndroidManifest.xml:17:1-24:12
+INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:4:5-51
+		INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+		INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:2:1-95:12
+		INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:2:1-95:12
+		INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.INTERNET
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\622a30fd12054cfd37dc2f0d0c8a4cb8\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\622a30fd12054cfd37dc2f0d0c8a4cb8\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\909b41e51951a95c59aad5c8eec26303\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\909b41e51951a95c59aad5c8eec26303\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:23:5-67
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-chat-3.7.0.aar\6928da7f2a47564bd0e2024e6ca32fc5\AndroidManifest.xml:11:5-67
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-chat-3.7.0.aar\6928da7f2a47564bd0e2024e6ca32fc5\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:11:22-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:13:22-73
+uses-feature#android.hardware.camera
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:15:5-60
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:15:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:16:19-67
+uses-feature#0x00020000
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:18:5-20:35
+	android:glEsVersion
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:19:9-41
+	android:required
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:20:9-32
+application
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:22:5-93:19
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\robototextview-4.0.0.aar\c0b4fbb9b8b0dbaba27632964c8ebcbf\AndroidManifest.xml:8:5-20
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\robototextview-4.0.0.aar\c0b4fbb9b8b0dbaba27632964c8ebcbf\AndroidManifest.xml:8:5-20
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:10:5-24:19
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:10:5-24:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4655570e3e7d22ace6f6f5fed161e5cb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4655570e3e7d22ace6f6f5fed161e5cb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\de63e337785079f0d43e756f4ef58744\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\de63e337785079f0d43e756f4ef58744\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\77c41561668fc4dd7922ac4a3e670732\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\77c41561668fc4dd7922ac4a3e670732\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4af8f1e408d3d5e0642dcabef3c9828c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4af8f1e408d3d5e0642dcabef3c9828c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\9461b38cdb2f370425398110bc6909e8\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\9461b38cdb2f370425398110bc6909e8\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\0113b116d9562fde34ac56e2161803a9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\0113b116d9562fde34ac56e2161803a9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\6b5e7ad57c353c09a36c18d9ff72dc54\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\6b5e7ad57c353c09a36c18d9ff72dc54\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\622a30fd12054cfd37dc2f0d0c8a4cb8\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\622a30fd12054cfd37dc2f0d0c8a4cb8\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\909b41e51951a95c59aad5c8eec26303\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\909b41e51951a95c59aad5c8eec26303\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\0c8ad389c8819665b45f96c61a559a6e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\0c8ad389c8819665b45f96c61a559a6e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fd3226c11fe7fd2f6606343ec3951931\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fd3226c11fe7fd2f6606343ec3951931\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\d0119de05cd987cc5c5f9a6230cce85e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\d0119de05cd987cc5c5f9a6230cce85e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\48f33da855f22eb2aecaf0d496fd6714\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\48f33da855f22eb2aecaf0d496fd6714\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\e66dadad059812ddffa5c33d3b223683\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\e66dadad059812ddffa5c33d3b223683\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\586c0b870bfe8464acc6fb3500dac010\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\586c0b870bfe8464acc6fb3500dac010\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\bc557295b709c75f0c534baf237d542c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\bc557295b709c75f0c534baf237d542c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7410f255f5d6c8a282000641150acf1c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7410f255f5d6c8a282000641150acf1c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54adffc93c347fa366e441f4309d60ff\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54adffc93c347fa366e441f4309d60ff\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd32e16ca9f9b74dd82c24aa127b7f1c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd32e16ca9f9b74dd82c24aa127b7f1c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aa5db91e1b7c99d44ea731b7e6e26e37\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aa5db91e1b7c99d44ea731b7e6e26e37\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\64db7b5070462f1f55badb143d0d12cc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\64db7b5070462f1f55badb143d0d12cc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8f88f733990ffe494f56e6766e4a0c2d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8f88f733990ffe494f56e6766e4a0c2d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f4381bf43d5812c969ea9b96baf867c3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f4381bf43d5812c969ea9b96baf867c3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05056871e3a9cb577653379aaab67c66\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05056871e3a9cb577653379aaab67c66\AndroidManifest.xml:25:5-29:19
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\library-3.2.3.aar\40da183fed54ed08d9ef0e1f67dffbd8\AndroidManifest.xml:9:5-20
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\library-3.2.3.aar\40da183fed54ed08d9ef0e1f67dffbd8\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9c077b668332354989398e37a8e6c19e\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9c077b668332354989398e37a8e6c19e\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\5aa88744eb775b7d948320cbb7dd4e4a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\5aa88744eb775b7d948320cbb7dd4e4a\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:26:9-41
+	tools:ignore
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:28:9-48
+	android:icon
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:24:9-36
+	android:theme
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:23:9-28
+meta-data#android.support.VERSION
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:31:9-34:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4655570e3e7d22ace6f6f5fed161e5cb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4655570e3e7d22ace6f6f5fed161e5cb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\de63e337785079f0d43e756f4ef58744\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\de63e337785079f0d43e756f4ef58744\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\77c41561668fc4dd7922ac4a3e670732\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\77c41561668fc4dd7922ac4a3e670732\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4af8f1e408d3d5e0642dcabef3c9828c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4af8f1e408d3d5e0642dcabef3c9828c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7410f255f5d6c8a282000641150acf1c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7410f255f5d6c8a282000641150acf1c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54adffc93c347fa366e441f4309d60ff\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54adffc93c347fa366e441f4309d60ff\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd32e16ca9f9b74dd82c24aa127b7f1c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd32e16ca9f9b74dd82c24aa127b7f1c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aa5db91e1b7c99d44ea731b7e6e26e37\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aa5db91e1b7c99d44ea731b7e6e26e37\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\64db7b5070462f1f55badb143d0d12cc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\64db7b5070462f1f55badb143d0d12cc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8f88f733990ffe494f56e6766e4a0c2d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8f88f733990ffe494f56e6766e4a0c2d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f4381bf43d5812c969ea9b96baf867c3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f4381bf43d5812c969ea9b96baf867c3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05056871e3a9cb577653379aaab67c66\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05056871e3a9cb577653379aaab67c66\AndroidManifest.xml:26:9-28:38
+	tools:replace
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:32:13-42
+	android:value
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:34:13-35
+		REJECTED from [com.android.support:design:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4655570e3e7d22ace6f6f5fed161e5cb\AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\de63e337785079f0d43e756f4ef58744\AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:transition:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\77c41561668fc4dd7922ac4a3e670732\AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4af8f1e408d3d5e0642dcabef3c9828c\AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-v4:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7410f255f5d6c8a282000641150acf1c\AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-fragment:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54adffc93c347fa366e441f4309d60ff\AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd32e16ca9f9b74dd82c24aa127b7f1c\AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:support-core-ui:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aa5db91e1b7c99d44ea731b7e6e26e37\AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-media-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\64db7b5070462f1f55badb143d0d12cc\AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-core-utils:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8f88f733990ffe494f56e6766e4a0c2d\AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f4381bf43d5812c969ea9b96baf867c3\AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:support-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05056871e3a9cb577653379aaab67c66\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:33:13-51
+activity#com.quickblox.sample.groupchatwebrtc.activities.SplashActivity
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:35:9-42:20
+	android:screenOrientation
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:36:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:40:27-74
+activity#com.quickblox.sample.groupchatwebrtc.activities.LoginActivity
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:43:9-46:52
+	android:screenOrientation
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:46:13-49
+	android:configChanges
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:44:13-53
+activity#com.quickblox.sample.groupchatwebrtc.activities.OpponentsActivity
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:47:9-51:52
+	android:screenOrientation
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:51:13-49
+	android:launchMode
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:50:13-44
+	android:configChanges
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:48:13-57
+activity#com.quickblox.sample.groupchatwebrtc.activities.PermissionsActivity
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:52:9-68
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:52:19-65
+activity#com.quickblox.sample.groupchatwebrtc.activities.CallActivity
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:53:9-57:47
+	android:screenOrientation
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:56:13-49
+	android:configChanges
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:55:13-74
+	android:theme
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:57:13-44
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:54:13-52
+activity#com.quickblox.sample.groupchatwebrtc.activities.SettingsActivity
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:58:9-61:52
+	android:screenOrientation
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:61:13-49
+	android:configChanges
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:60:13-74
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:59:13-56
+service#com.quickblox.sample.groupchatwebrtc.services.CallService
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:63:9-57
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:63:18-54
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:65:9-75:20
+	android:exported
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:67:13-36
+	android:permission
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:68:13-73
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:66:13-66
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.quickblox.sample.groupchatwebrtc
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:69:13-74:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:70:17-81
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:70:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:71:17-86
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:71:25-83
+category#com.quickblox.sample.groupchatwebrtc
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:73:17-81
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:73:27-78
+service#com.quickblox.sample.groupchatwebrtc.services.gcm.GcmPushListenerService
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:77:9-83:19
+	android:exported
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:79:13-37
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:78:13-64
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:80:13-82:29
+meta-data#com.quickblox.messages.TYPE
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:85:9-85
+	android:value
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:85:63-82
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:85:20-62
+meta-data#com.quickblox.messages.SENDER_ID
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:86:9-104
+	android:value
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:86:68-101
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:86:20-67
+meta-data#com.quickblox.messages.QB_ENVIRONMENT
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:87:9-103
+	android:value
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:87:73-100
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:87:20-72
+meta-data#com.google.android.gms.version
+ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:89:9-91:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\bc557295b709c75f0c534baf237d542c\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\bc557295b709c75f0c534baf237d542c\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:91:13-66
+	android:name
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml:90:13-58
+uses-sdk
+INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\robototextview-4.0.0.aar\c0b4fbb9b8b0dbaba27632964c8ebcbf\AndroidManifest.xml:6:5-44
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\robototextview-4.0.0.aar\c0b4fbb9b8b0dbaba27632964c8ebcbf\AndroidManifest.xml:6:5-44
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4655570e3e7d22ace6f6f5fed161e5cb\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4655570e3e7d22ace6f6f5fed161e5cb\AndroidManifest.xml:21:5-23:62
+MERGED from [com.quickblox:quickblox-android-sdk-videochat-webrtc:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-videochat-webrtc-3.7.0.aar\5168cc8eba926a3897138a76b99f955d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.quickblox:quickblox-android-sdk-videochat-webrtc:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-videochat-webrtc-3.7.0.aar\5168cc8eba926a3897138a76b99f955d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\de63e337785079f0d43e756f4ef58744\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\de63e337785079f0d43e756f4ef58744\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\77c41561668fc4dd7922ac4a3e670732\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\77c41561668fc4dd7922ac4a3e670732\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4af8f1e408d3d5e0642dcabef3c9828c\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4af8f1e408d3d5e0642dcabef3c9828c\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\9461b38cdb2f370425398110bc6909e8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\9461b38cdb2f370425398110bc6909e8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\0113b116d9562fde34ac56e2161803a9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\0113b116d9562fde34ac56e2161803a9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\6b5e7ad57c353c09a36c18d9ff72dc54\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\6b5e7ad57c353c09a36c18d9ff72dc54\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\622a30fd12054cfd37dc2f0d0c8a4cb8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\622a30fd12054cfd37dc2f0d0c8a4cb8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\909b41e51951a95c59aad5c8eec26303\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\909b41e51951a95c59aad5c8eec26303\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\0c8ad389c8819665b45f96c61a559a6e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\0c8ad389c8819665b45f96c61a559a6e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fd3226c11fe7fd2f6606343ec3951931\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fd3226c11fe7fd2f6606343ec3951931\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\d0119de05cd987cc5c5f9a6230cce85e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\d0119de05cd987cc5c5f9a6230cce85e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\48f33da855f22eb2aecaf0d496fd6714\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\48f33da855f22eb2aecaf0d496fd6714\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\e66dadad059812ddffa5c33d3b223683\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\e66dadad059812ddffa5c33d3b223683\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\586c0b870bfe8464acc6fb3500dac010\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\586c0b870bfe8464acc6fb3500dac010\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\bc557295b709c75f0c534baf237d542c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\bc557295b709c75f0c534baf237d542c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7410f255f5d6c8a282000641150acf1c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7410f255f5d6c8a282000641150acf1c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54adffc93c347fa366e441f4309d60ff\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54adffc93c347fa366e441f4309d60ff\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd32e16ca9f9b74dd82c24aa127b7f1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd32e16ca9f9b74dd82c24aa127b7f1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aa5db91e1b7c99d44ea731b7e6e26e37\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aa5db91e1b7c99d44ea731b7e6e26e37\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\64db7b5070462f1f55badb143d0d12cc\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\64db7b5070462f1f55badb143d0d12cc\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8f88f733990ffe494f56e6766e4a0c2d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8f88f733990ffe494f56e6766e4a0c2d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f4381bf43d5812c969ea9b96baf867c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f4381bf43d5812c969ea9b96baf867c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05056871e3a9cb577653379aaab67c66\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05056871e3a9cb577653379aaab67c66\AndroidManifest.xml:21:5-23:58
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\library-3.2.3.aar\40da183fed54ed08d9ef0e1f67dffbd8\AndroidManifest.xml:7:5-43
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\library-3.2.3.aar\40da183fed54ed08d9ef0e1f67dffbd8\AndroidManifest.xml:7:5-43
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-chat-3.7.0.aar\6928da7f2a47564bd0e2024e6ca32fc5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-chat-3.7.0.aar\6928da7f2a47564bd0e2024e6ca32fc5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.quickblox:quickblox-android-sdk-core:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-core-3.7.0.aar\332239d0a951d5e8cb7c54206284c6d2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.quickblox:quickblox-android-sdk-core:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-core-3.7.0.aar\332239d0a951d5e8cb7c54206284c6d2\AndroidManifest.xml:6:5-8:41
+MERGED from [org.webrtc:google-webrtc:1.0.21217] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.21217.aar\b0a1a88bb821ffbfbd09c7c75761d6d8\AndroidManifest.xml:13:3-72
+MERGED from [org.webrtc:google-webrtc:1.0.21217] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.21217.aar\b0a1a88bb821ffbfbd09c7c75761d6d8\AndroidManifest.xml:13:3-72
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9c077b668332354989398e37a8e6c19e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9c077b668332354989398e37a8e6c19e\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\5aa88744eb775b7d948320cbb7dd4e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\5aa88744eb775b7d948320cbb7dd4e4a\AndroidManifest.xml:20:5-44
+INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4655570e3e7d22ace6f6f5fed161e5cb\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+		INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+		ADDED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+		INJECTED from G:\GIT\QUICKBLOX2\app\src\main\AndroidManifest.xml
+service#com.quickblox.messages.services.SubscribeTaskManager
+ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:11:9-18:19
+	android:exported
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:13:13-36
+	android:permission
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:14:13-93
+	android:name
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:12:13-80
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:15:13-17:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:16:17-87
+	android:name
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:16:25-84
+service#com.quickblox.messages.services.SubscribeService
+ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:19:9-23:19
+	android:exported
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:21:13-37
+	android:permission
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:22:13-69
+	android:name
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-messages-3.7.0.aar\cc6a62483654826e22a071cff33d1a8e\AndroidManifest.xml:20:13-76
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\9461b38cdb2f370425398110bc6909e8\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\9461b38cdb2f370425398110bc6909e8\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\9461b38cdb2f370425398110bc6909e8\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\9461b38cdb2f370425398110bc6909e8\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\9461b38cdb2f370425398110bc6909e8\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\9461b38cdb2f370425398110bc6909e8\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\9461b38cdb2f370425398110bc6909e8\AndroidManifest.xml:32:25-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:22:5-79
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-chat-3.7.0.aar\6928da7f2a47564bd0e2024e6ca32fc5\AndroidManifest.xml:12:5-79
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\quickblox-android-sdk-chat-3.7.0.aar\6928da7f2a47564bd0e2024e6ca32fc5\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\8285fce5694524668dcbf08a49ea1314\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\779ea03196fabc2616c04b229603d830\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\c1cd21baf7c8c888b6a9964ffa649137\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\622a30fd12054cfd37dc2f0d0c8a4cb8\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\909b41e51951a95c59aad5c8eec26303\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\909b41e51951a95c59aad5c8eec26303\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\622a30fd12054cfd37dc2f0d0c8a4cb8\AndroidManifest.xml:23:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:38:13-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\92a6242025622404551de1a9032b0d52\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fd3226c11fe7fd2f6606343ec3951931\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fd3226c11fe7fd2f6606343ec3951931\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fd3226c11fe7fd2f6606343ec3951931\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fd3226c11fe7fd2f6606343ec3951931\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\48f33da855f22eb2aecaf0d496fd6714\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\48f33da855f22eb2aecaf0d496fd6714\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\48f33da855f22eb2aecaf0d496fd6714\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\48f33da855f22eb2aecaf0d496fd6714\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\48f33da855f22eb2aecaf0d496fd6714\AndroidManifest.xml:11:13-77
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9c077b668332354989398e37a8e6c19e\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9c077b668332354989398e37a8e6c19e\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ITCLANBD\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9c077b668332354989398e37a8e6c19e\AndroidManifest.xml:26:13-58
